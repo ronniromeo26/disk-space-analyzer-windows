@@ -1,10 +1,10 @@
 # DiskLens — Disk Space Analyzer for Windows
 
-Point DiskLens at a drive or folder and it shows what is eating your space, sorted biggest first, so you find the heavy files and folders in seconds.
+Free disk space analyzer for Windows - find what fills your drive
 
-## Download
+![DiskLens](screenshot.png)
 
-[Download the latest release](../../releases/latest) — portable build, no installer and no account.
+**[⬇ Download for Windows](../../releases/latest)** — free, no ads, no account, no sign-up. One small file, unzip and run.
 
 ## What it does
 
@@ -15,10 +15,21 @@ Point DiskLens at a drive or folder and it shows what is eating your space, sort
 - Read-only: it never deletes anything on its own
 - Free and open source, no ads and no telemetry
 
+## How to use
+
+1. Open DiskLens.
+2. Press Browse and pick a drive or folder.
+3. Press Scan - every item is listed with its real size, biggest first.
+4. Folder sizes include everything inside them, so you see the true space hog.
+
 ## Requirements
 
-Windows 10 or 11, 64-bit. No admin rights, nothing written to the registry.
+Windows 10 or 11, 64-bit. No admin rights needed and nothing is written to the registry. It runs fine on weak, old and budget machines.
+
+## Privacy
+
+Everything happens on your PC. Nothing is uploaded, there is no telemetry, no ads and no account.
 
 ## Licence
 
-MIT. Free, no ads, no telemetry.
+MIT — free to use, free to share.
