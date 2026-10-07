@@ -1,6 +1,10 @@
-# DiskLens — visual disk space analyzer with drill-down into the biggest folders
+# DiskLens — a free windows disk space analyzer that shows the biggest folders first
 
-When your C: drive is suddenly full and you have no idea why, disklens hands you the map. It is a free Windows 10 and Windows 11 utility that scans a drive or folder, sums every byte underneath each entry, and shows the biggest space hogs at the top so you can drill straight into the folder that is actually eating your storage. No account, no sign-up, no watermark on anything, and nothing gets uploaded anywhere.
+When your C: drive is suddenly full and you have no idea why, DiskLens is the windows disk space analyzer that hands you the map. It is a free utility for Windows 10 and Windows 11 that scans a drive or folder, sums every byte underneath each entry, and shows the biggest space hogs at the top so you can drill straight into the folder that is actually eating your storage. No account, no sign-up, no watermark on anything, and nothing gets uploaded anywhere.
+
+## Why use this as a windows disk space analyzer?
+
+Most built-in Windows storage views only show you top-level categories or a flat file list — they never answer the real question of *which folder is quietly holding 80 GB*. DiskLens walks the entire tree, rolls true recursive totals up to each folder, and sorts biggest-first, so within a few seconds you are looking at the exact directory responsible for the bulk. It stays read-only the whole time, so you decide what to clean up in File Explorer afterwards.
 
 ## Get it
 
